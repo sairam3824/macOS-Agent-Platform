@@ -1,0 +1,3 @@
+# Optional: local Whisper transcription (pulls ~150MB tiny model, needs torch)
+# Install with: pip install -r requirements-voice.txt
+openai-whisper==20240930
